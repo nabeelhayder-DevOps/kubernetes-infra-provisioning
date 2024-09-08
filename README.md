@@ -1,7 +1,3 @@
-# kubernetes-infra-provisioning
-This repo contains the terraform code to provision infrastructure for the kubernetes which can be found in other repo i created by the name kubernetes-the-hard-way
-
-
 
 ## Instructions:
 1. Go to the gcp directory and run `terraform init`.
